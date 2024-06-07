@@ -1,0 +1,134 @@
+{
+  "id": "5c9dec88-356f-4b60-be31-7df4b2de7e1b",
+  "version": "2.0",
+  "name": "Excluir",
+  "url": "http://127.0.0.1:5500",
+  "tests": [{
+    "id": "205e7171-5fb1-4b61-b388-750fffc68898",
+    "name": "Excluir",
+    "commands": [{
+      "id": "22537e73-2b71-4557-bea6-ed8857c7caf9",
+      "comment": "",
+      "command": "open",
+      "target": "http://127.0.0.1:5500/index2.html",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "238152f8-e6c4-4b6c-bedc-7443ed0f4eb5",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1048",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b0e62693-6d6f-471a-957b-faeb0c370941",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(4) .delete-btn",
+      "targets": [
+        ["css=tr:nth-child(4) .delete-btn", "css:finder"],
+        ["xpath=//table[@id='servidoresTable']/tbody/tr[4]/td[5]/button", "xpath:idRelative"],
+        ["xpath=//tr[4]/td[5]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "375d6395-be49-4bc1-af31-2c585b85d729",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(4) .delete-btn",
+      "targets": [
+        ["css=tr:nth-child(4) .delete-btn", "css:finder"],
+        ["xpath=//table[@id='servidoresTable']/tbody/tr[4]/td[5]/button", "xpath:idRelative"],
+        ["xpath=//tr[4]/td[5]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4691b181-229f-4d11-b5de-6e2d7856d225",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(4) .delete-btn",
+      "targets": [
+        ["css=tr:nth-child(4) .delete-btn", "css:finder"],
+        ["xpath=//table[@id='servidoresTable']/tbody/tr[4]/td[5]/button", "xpath:idRelative"],
+        ["xpath=//tr[4]/td[5]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "95122597-ceb0-48db-add6-4156383d8341",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(4) .delete-btn",
+      "targets": [
+        ["css=tr:nth-child(4) .delete-btn", "css:finder"],
+        ["xpath=//table[@id='servidoresTable']/tbody/tr[4]/td[5]/button", "xpath:idRelative"],
+        ["xpath=//tr[4]/td[5]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8f8ce083-5d66-4fb1-bc97-090c86df3507",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(4) .delete-btn",
+      "targets": [
+        ["css=tr:nth-child(4) .delete-btn", "css:finder"],
+        ["xpath=//table[@id='servidoresTable']/tbody/tr[4]/td[5]/button", "xpath:idRelative"],
+        ["xpath=//tr[4]/td[5]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0b1c6795-4d2a-410e-a506-101cf5405abe",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(4) .delete-btn",
+      "targets": [
+        ["css=tr:nth-child(4) .delete-btn", "css:finder"],
+        ["xpath=//table[@id='servidoresTable']/tbody/tr[4]/td[5]/button", "xpath:idRelative"],
+        ["xpath=//tr[4]/td[5]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "76273534-a211-427b-8d13-d230f25684df",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(4) .delete-btn",
+      "targets": [
+        ["css=tr:nth-child(4) .delete-btn", "css:finder"],
+        ["xpath=//table[@id='servidoresTable']/tbody/tr[4]/td[5]/button", "xpath:idRelative"],
+        ["xpath=//tr[4]/td[5]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4cad9be6-a824-4d87-b675-14116ad2be8b",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(4) .delete-btn",
+      "targets": [
+        ["css=tr:nth-child(4) .delete-btn", "css:finder"],
+        ["xpath=//table[@id='servidoresTable']/tbody/tr[4]/td[5]/button", "xpath:idRelative"],
+        ["xpath=//tr[4]/td[5]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "db7015b1-b3ab-4746-aa72-002faf614ef3",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(4) .delete-btn",
+      "targets": [
+        ["css=tr:nth-child(4) .delete-btn", "css:finder"],
+        ["xpath=//table[@id='servidoresTable']/tbody/tr[4]/td[5]/button", "xpath:idRelative"],
+        ["xpath=//tr[4]/td[5]/button", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "79652ef1-a864-4509-b8fb-3d2911401687",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["205e7171-5fb1-4b61-b388-750fffc68898"]
+  }],
+  "urls": ["http://127.0.0.1:5500/"],
+  "plugins": []
+}
